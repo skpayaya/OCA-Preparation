@@ -1,0 +1,9 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Öå–48ì¬ªÎË.H†RMAJORZ
+CODE_SMELL
+T
+java:S1116"Remove this empty statement.(§Õ€¡şÿÿÿÿ8Ú´ÎË.HRMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HƒRMINORZ
+CODE_SMELL

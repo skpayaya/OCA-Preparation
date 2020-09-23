@@ -1,0 +1,13 @@
+
+E
+java:S1220""Move this file to a named package.HRMINORZ
+CODE_SMELL
+N
+java:S1643"Use a StringBuilder instead.(ÜçÕˆ8­¤‡ËË.HRMINORZ
+CODE_SMELL
+‚	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÐ©ž8­¤‡ËË.HRMINORZ
+CODE_SMELL
+w	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–áßªHRMINORZ
+CODE_SMELL
+‡	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óðÄªúÿÿÿÿ8­¤‡ËË.HRMINORZ
+CODE_SMELL

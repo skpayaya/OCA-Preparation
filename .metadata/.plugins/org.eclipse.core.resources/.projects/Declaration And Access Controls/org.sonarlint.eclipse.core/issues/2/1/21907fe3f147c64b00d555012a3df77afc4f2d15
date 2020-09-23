@@ -1,0 +1,11 @@
+
+E
+java:S1220""Move this file to a named package.HoRMINORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(ª¿Òƒùÿÿÿÿ8ë¾–ÎË.HtRMAJORZ
+CODE_SMELL
+s
+java:S1610";Convert the abstract class "Electronic1" into an interface.(¹§Ùüÿÿÿÿÿ8Š˜ÎË.HRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¨©ûê8©£œÎË.H‚RMAJORZ
+CODE_SMELL

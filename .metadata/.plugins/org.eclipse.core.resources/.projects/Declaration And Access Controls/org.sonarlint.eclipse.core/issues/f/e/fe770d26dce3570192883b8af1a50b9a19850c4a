@@ -1,0 +1,13 @@
+
+|	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ö¬¼íøÿÿÿÿHRMINORZ
+CODE_SMELL
+E
+java:S1220""Move this file to a named package.HRMINORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(ê¦õùÿÿÿÿ8ŞçæÊË.HRMAJORZ
+CODE_SMELL
+_
+java:S1144"-Remove this unused private "blastOff" method.(‘®ô8ŞçæÊË.H	RMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(ëÒ•ëÿÿÿÿÿ8ŞçæÊË.HRMAJORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+
+public class Tablet extends ELectronic1 implements Gadget {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
+interface Gadget{
+	
+}
+abstract class Electronic1 {
+	void getPower() {
+		System.out.println("plug in ");
+	}
+}

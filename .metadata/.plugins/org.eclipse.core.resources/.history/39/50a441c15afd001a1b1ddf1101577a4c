@@ -1,0 +1,23 @@
+
+public class q1 {
+
+	public static void main(String[] args) {
+		new q1().go();
+	}
+
+	 void go() {
+		blastOff();
+		//Rocker.blastOff();  //line A
+		
+	}
+
+	private void blastOff() {
+		System.out.println("sh-bang ");		
+	}
+
+}
+class Rocket{
+	private void blastOff() {
+		System.out.println("bang ");
+	}
+}

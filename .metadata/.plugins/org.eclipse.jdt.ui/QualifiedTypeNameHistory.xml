@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Animals"/>
+    <fullyQualifiedTypeName name="javax.xml.parsers.FactoryConfigurationError"/>
+    <fullyQualifiedTypeName name="pkgA.Foo"/>
+    <fullyQualifiedTypeName name="Electronic"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="TestDays.Days"/>
+    <fullyQualifiedTypeName name="Hobbit"/>
+    <fullyQualifiedTypeName name="Tablet"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="StatTest"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+</qualifiedTypeNameHistroy>

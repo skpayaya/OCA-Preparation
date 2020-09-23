@@ -1,0 +1,10 @@
+
+public class Announce {
+public static void main(String[] args) {
+	for (int ___x = 0; ___x < 3; ___x++) {
+		int #lb=7;
+		
+		
+	}
+}
+}
